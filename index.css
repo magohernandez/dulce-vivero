@@ -75,7 +75,7 @@
 }
 
 .main {
-    background-image: url("../imgs/gotit.jpg");
+    background-image: url("./gotit.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -301,7 +301,7 @@ footer{
 }
 
 .cuerpo {
-    background-image: url(../imgs/fondo.jpg);
+    background-image: url(./fondo.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
